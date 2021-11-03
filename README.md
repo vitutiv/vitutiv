@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 - 🙂 AKA vitu
 - 🔭 Working @ Vaivoa
 - 📚 Studying Biomedical Informatics @ Universidade de São Paulo (FMRP-USP)
+- 🎓 Computer Technician @ Instituto Federal de Educação, Ciência e Tecnologia da Bahia (IFBA)
 - 🌱 Learning Swift
 - 😄 He/Him
 
