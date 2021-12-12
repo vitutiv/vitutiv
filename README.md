@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 -->
 # 👋🏽 **Hello! I'm Victor**
 - 🙂 AKA vitu
-- 🔭 Working @ Vaivoa
-- 📚 Studying Biomedical Informatics @ Universidade de São Paulo (FMRP-USP)
-- 🎓 Computer Technician @ Instituto Federal de Educação, Ciência e Tecnologia da Bahia (IFBA)
+- 🔭 Working @ [Vaivoa](https://vaivoa.com)
+- 📚 Studying [Biomedical Informatics](https://cg.fmrp.usp.br/pb/cursos/informatica-biomedica/) @ [Universidade de São Paulo (FMRP-USP)](https://www5.usp.br/)
+- 🎓 Computer Technician @ [Instituto Federal de Educação, Ciência e Tecnologia da Bahia (IFBA)](https://portal.ifba.edu.br/jacobina)
 - 🌱 Learning Swift
 - 😄 He/Him
 
@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ](mailto:vitutivitu@gmail.com)
 
-## 👔 I have worked with all stuff below
-### 👨‍💻 Programming Languages
+## 👔 I have worked with all this stuff
+### 👨‍💻 Languages
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -67,7 +67,7 @@ Here are some ideas to get you started:
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
-### 💻 Operating Systems
+### 💻 Systems
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
 ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
