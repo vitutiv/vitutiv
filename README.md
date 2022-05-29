@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 - 🙂 aka ViTu
 - 🙃 He/Him
 
-## Education
+## 🏫 Education
 - 📚 **2020-** [Biomedical Informatics](https://cg.fmrp.usp.br/pb/cursos/informatica-biomedica/) @ [Universidade de São Paulo (FMRP-USP)](https://www5.usp.br/)
 - 🎓 **2016-2019** Computer Technician @ [Instituto Federal de Educação, Ciência e Tecnologia da Bahia (IFBA)](https://portal.ifba.edu.br/jacobina)
 
-## Job History
+## 💼 Job History
 - ➡️ **2022-** [Banco Modal](https://www.modal.com.br/) as iOS Swift Developer
 - ✅ **2021-2022** [Vaivoa](https://www.vaivoa.com) as Back-End C# Developer & iOs Swift Developer
 - ✅ **2021-2021** [Agrobyte](https://www.agrobyte.farm/) as Android Flutter Developer
