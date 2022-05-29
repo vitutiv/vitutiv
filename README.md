@@ -13,19 +13,25 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 👋🏽 **Hello! I'm Victor**
-- 🙂 AKA vitu
-- 🔭 Working @ [Vaivoa](https://vaivoa.com)
-- 📚 Studying [Biomedical Informatics](https://cg.fmrp.usp.br/pb/cursos/informatica-biomedica/) @ [Universidade de São Paulo (FMRP-USP)](https://www5.usp.br/)
-- 🎓 Computer Technician @ [Instituto Federal de Educação, Ciência e Tecnologia da Bahia (IFBA)](https://portal.ifba.edu.br/jacobina)
-- 🌱 Learning Swift
+- 🙂 AKA ViTu
 - 😄 He/Him
+
+## Education
+- 📚 **2020-** [Biomedical Informatics](https://cg.fmrp.usp.br/pb/cursos/informatica-biomedica/) @ [Universidade de São Paulo (FMRP-USP)](https://www5.usp.br/)
+- 🎓 **2016-2019** Computer Technician @ [Instituto Federal de Educação, Ciência e Tecnologia da Bahia (IFBA)](https://portal.ifba.edu.br/jacobina)
+
+## Job History
+- 🔭 **2022-** [Banco Modal](https://www.modal.com.br/) as Swift Developer
+- ✅ **2021-2022** [Vaivoa](https://www.vaivoa.com) as BackEnd Developer & Swift Developer
+- ✅ **2021-2021** [Agrobyte](https://www.agrobyte.farm/) as Flutter Developer
+- ✅ **2019-2019** [Município Digital](https://www.municipiodigital.com.br/) as PHP Full Stack Intern
 
 ## 📫 How to reach me
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vitutiv)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ](mailto:vitutivitu@gmail.com)
 
-## 👔 I have worked with all this stuff
+## 👔 Stuff I have experience with
 ### 👨‍💻 Languages
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
