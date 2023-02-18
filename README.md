@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 - 🎓 **2016-2019** Computer Technician @ [Instituto Federal de Educação, Ciência e Tecnologia da Bahia (IFBA)](https://portal.ifba.edu.br/jacobina)
 
 ## 💼 Job History
+- ✅ **2022-** [Capgemini](https://www.capgemini.com/) as iOS Digital Solutions Consultant
 - ✅ **2021-2022** [Vaivoa](https://www.vaivoa.com) as Back-End C# Developer & [Banco Modal](https://www.modal.com.br/) as iOS Swift Developer
 - ✅ **2021-2021** [Agrobyte](https://www.agrobyte.farm/) as Android Flutter Developer
 - ✅ **2019-2019** [Município Digital](https://www.municipiodigital.com.br/) as Full Stack PHP Intern
@@ -71,6 +72,7 @@ Here are some ideas to get you started:
 ![PhpStorm](https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 
 ### 💻 Systems
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
