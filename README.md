@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 - 🎓 **2016-2019** Computer Technician @ [Instituto Federal de Educação, Ciência e Tecnologia da Bahia (IFBA)](https://portal.ifba.edu.br/jacobina)
 
 ## 💼 Job History
-- ✅ **2022-** [Capgemini](https://www.capgemini.com/) as iOS Digital Solutions Consultant
+- ✅ **2022(ongoing)** [Capgemini](https://www.capgemini.com/) as iOS Digital Solutions Consultant
 - ✅ **2021-2022** [Vaivoa](https://www.vaivoa.com) as Back-End C# Developer & [Banco Modal](https://www.modal.com.br/) as iOS Swift Developer
-- ✅ **2021-2021** [Agrobyte](https://www.agrobyte.farm/) as Android Flutter Developer
-- ✅ **2019-2019** [Município Digital](https://www.municipiodigital.com.br/) as Full Stack PHP Intern
+- ✅ **2021** [Agrobyte](https://www.agrobyte.farm/) as Android Flutter Developer
+- ✅ **2019** [Município Digital](https://www.municipiodigital.com.br/) as Full Stack PHP Intern
 
 ## 📫 How to reach me
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vitutiv)
